@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.900338
 color:
   brandColors:
     - '#F0F0F0'
@@ -10,9 +10,9 @@ color:
   lightness: 0.224195
   rhythmicContrast: 0.161394
   saturation: 0.335024
-cta: {}
-layout_spectrum: 0.987331
-name: emsemble
 opengraph: {}
+layout_spectrum: 0.987331
+analytics: {}
+name: emsemble
+cta: {}
 purpose: {}
-typography_spectrum: 0.900338
