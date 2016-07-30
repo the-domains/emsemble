@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#F0F0F0'
+    - '#3B5998'
+    - '#ABA6A2'
+    - '#1E2D4C'
+    - '#DA2929'
+  brandStrength: 0.858082
+  lightness: 0.224195
+  rhythmicContrast: 0.161394
+  saturation: 0.335024
+cta: {}
+layout_spectrum: 0.987331
+name: emsemble
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.900338
